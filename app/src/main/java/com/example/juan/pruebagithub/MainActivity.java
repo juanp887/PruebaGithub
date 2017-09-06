@@ -14,6 +14,5 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void mostrarToast(View view){
-        Toast.makeText(this, "Hola Juan!!", Toast.LENGTH_SHORT).show();
     }
 }
